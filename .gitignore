@@ -1,0 +1,5 @@
+*.parquet
+Final_Project/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
