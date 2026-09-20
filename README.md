@@ -1,6 +1,6 @@
 # Airfoil Noise Prediction with PySpark
 
-![Uploading Airfoil-noise.png…]()
+![Airfoil Noise Prediction Pipeline](Airfoil-noise.png)
 
 
 
