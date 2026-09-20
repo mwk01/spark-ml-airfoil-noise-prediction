@@ -1,5 +1,5 @@
 # Airfoil Noise Prediction with PySpark
-![Uploading image.png…]()
+
 
 
 
